@@ -1,0 +1,10 @@
+# Ignore the large raw data asset
+Fraud.csv
+*.csv
+*.xlsx
+*.zip
+
+# Ignore local checkpoints and caches
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
